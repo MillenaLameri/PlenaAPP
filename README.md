@@ -1,7 +1,7 @@
 # Projeto Plena
 
 **Descrição**  
-O **Projeto Plena** é um estudo prático de desenvolvimento de um aplicativo móvel utilizando **React Native**. O objetivo é criar uma aplicação funcional e responsiva que simule um ambiente de navegação de internet, com uma interface intuitiva e de fácil interação. Este projeto abrange desde a criação da arquitetura inicial até a implementação de funcionalidades essenciais, com foco na experiência do usuário e na performance do aplicativo.
+O **Projeto Plena** é um estudo prático de desenvolvimento de um aplicativo móvel utilizando **React Native**. O objetivo é criar uma aplicação funcional e responsiva que simule uma operadora de internet, com uma interface intuitiva e de fácil interação. Este projeto abrange desde a criação da arquitetura inicial até a implementação de funcionalidades essenciais, com foco na experiência do usuário e na performance do aplicativo.
 
 **Tecnologias Utilizadas**
 - **React Native**: Framework para construção do aplicativo móvel.
